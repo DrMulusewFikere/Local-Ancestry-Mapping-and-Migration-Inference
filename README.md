@@ -10,11 +10,6 @@ in U.S. honey bee populations.**
 
 The manuscript is currently under **second-round review** at *Ecology and Evolution*.
 
-This repository contains the final materials prepared for the current revision.
-Files corresponding to the final submission are identified with the suffix:
-
-`_Final`
-
 ---
 
 ## Repository organization
