@@ -167,22 +167,6 @@ The overall analysis consisted of the following major steps:
 
 ---
 
-## Major datasets
-
-The study included **2,359 U.S. honey bee individuals**.
-
-The local ancestry analyses focused on four major ancestry components:
-
-- A
-- C
-- M
-- O
-
-The RFMix analyses used reference and target datasets to estimate local ancestry
-along phased genomic haplotypes.
-
----
-
 ## Ancestry-associated genomic regions
 
 Regions with elevated ancestry probabilities were identified using the specified
@@ -242,20 +226,6 @@ linear regression.
 
 ---
 
-## Reproducibility
-
-Analysis scripts are provided to document the computational workflow and
-statistical analyses used to generate the manuscript results.
-
-Because some analyses were performed on large genomic datasets and high-performance
-computing resources, complete intermediate files and raw computational outputs
-may not be included in this repository.
-
-Where applicable, the README and accompanying scripts identify the input files,
-software packages, and major parameters required for each analysis.
-
----
-
 ## Software
 
 Major software and R packages used in the analyses include:
@@ -274,19 +244,6 @@ Major software and R packages used in the analyses include:
 
 Specific software versions and analysis parameters are reported in the manuscript
 Methods section where applicable.
-
----
-
-## File naming convention
-
-Files with the suffix:
-
-`_Final`
-
-represent the final versions prepared for the current manuscript revision.
-
-Files without `_Final` may represent intermediate, exploratory, or earlier
-versions and should not be considered the final submission files.
 
 ---
 
